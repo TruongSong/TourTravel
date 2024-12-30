@@ -1,0 +1,31 @@
+# Node modules
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build output
+build/
+
+# .env files
+.env
+.env.*.local
+
+# Dependency directories
+.pnp/
+.pnp.js
+
+# Testing coverage
+coverage/
+
+# IDEs and editors
+.idea/
+.vscode/
+
+# MacOS specific
+.DS_Store
+
+# Windows specific
+Thumbs.db
